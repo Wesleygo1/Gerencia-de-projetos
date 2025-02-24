@@ -13,9 +13,18 @@ Este é um programa simples de agenda telefônica em Python que permite adiciona
 
 - Python 3.x instalado no sistema.  
 
-## ▶️ Como Executar
+python agenda.py
 
-1. Clone o repositório (ou copie o código para um arquivo `.py`):
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
+# 📞 EXEMPLO DE USO
+1. Adicionar Contato
+2. Buscar Contato
+3. Listar Contatos
+4. Sair
+Escolha uma opção: 1
+Nome: João
+Telefone: 99999-9999
+Contato João adicionado com sucesso!
+
+Escolha uma opção: 2
+Nome do contato: João
+99999-9999
